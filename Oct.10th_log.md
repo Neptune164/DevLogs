@@ -101,3 +101,11 @@
 #### 11. About flask.jsonify()
 - Serialize the given arguments as JSON and return a response object with the application/json mimetype
 - **a full HTTP-compliant JSON response**
+
+#### 12. Set remote repo
+```bash
+    git remote add origin https://github.com/<username>/<project>.git
+    git remote -v # check that it worked
+    git branch -M main
+    git push origin main
+```

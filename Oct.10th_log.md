@@ -61,7 +61,7 @@
 - The mask is **temporary and an intermediate** boolean array (or Series) used at the moment of filtering
 - unless assigning it as a column.
 
-#### 7. About "__init__.py"
+#### 7. About `__init__.py`
 - It usually contains nothing. An empty one is enough to mark a package.
 - Tell Python: This folder isn't just a random collection of files - treat it as a module namespace
 

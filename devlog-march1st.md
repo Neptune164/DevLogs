@@ -36,7 +36,7 @@
 ### 4. Command on Conda
 - Create the env
 ```bash
- conda env create -n [env_name] [Python=3.1x]
+ conda create -n [env_name] [Python=3.1x]
 ```
 - Exit
 ```bash
